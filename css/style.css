@@ -2,3 +2,4 @@
 body { text-align: center; padding: 20px; }
 body,input,button,p { font-family: "Open Sans", "Helvetica Neue", Helvetica, Verdana, Tahoma, sans-serif; }
 .campaign {line-height: 125%; margin: 5px;}
+.footer { color: #ccc; }
